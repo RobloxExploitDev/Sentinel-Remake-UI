@@ -1,6 +1,7 @@
 # Sentinel-Remake-UI
-A Lua Script Executor Powered By Velocity API. Remake Based Of Original Sentinel Exploit
-Downlaod In Discord - https://discord.gg/qVT2yR63fq
+A Lua Script Executor Powered By Velocity API. Remake Based Of Original Sentinel Exploit.
+
+Download In Discord - https://discord.gg/qVT2yR63fq
 
 ![image alt](https://github.com/RobloxExploitDev/SentinelRemakeResrouces/blob/main/Images/Login.png?raw=true)
 Login Interface (Any user Or Pass)
