@@ -15,7 +15,7 @@ A Lua Script Executor Powered By Velocity API. Remake Based Of Original Sentinel
 ^^^Multi Instance Selection
 
 [![image alt](https://github.com/RobloxExploitDev/SentinelRemakeResrouces/blob/main/Images/MainExec.png?raw=true)
-              ^^^Msin Window & Context Menu
+              ^^^Main Window & Context Menu
 
 [![image alt](https://github.com/RobloxExploitDev/SentinelRemakeResrouces/blob/main/Images/ScriptHub.png?raw=true)
                ^^^ScriptHub Powered By ScriptBlox API
