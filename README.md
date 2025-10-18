@@ -3,25 +3,25 @@ A Lua Script Executor Powered By Velocity API. Remake Based Of Original Sentinel
 
 
 ![image alt](https://github.com/RobloxExploitDev/SentinelRemakeResrouces/blob/main/Images/Login.png?raw=true)
-<-- Login Interface (Any user Or Pass)
+Login Interface (Any user Or Pass)
 
 ![image alt](https://github.com/RobloxExploitDev/SentinelRemakeResrouces/blob/main/Images/Loader.png?raw=true)
-<-- Loader
+Loader
 
 [![image alt](https://github.com/RobloxExploitDev/SentinelRemakeResrouces/blob/main/Images/Bootstrapper.png?raw=true)
-^^^Bootstrapper
+Bootstrapper Console
 
 [![image alt](https://github.com/RobloxExploitDev/SentinelRemakeResrouces/blob/main/Images/Attach.png?raw=true)
-^^^Multi Instance Selection
+Multi Instance Selection
 
 [![image alt](https://github.com/RobloxExploitDev/SentinelRemakeResrouces/blob/main/Images/MainExec.png?raw=true)
-              <------Main Window & Context Menu
+Main Window
 
 [![image alt](https://github.com/RobloxExploitDev/SentinelRemakeResrouces/blob/main/Images/ScriptHub.png?raw=true)
-               <------ScriptHub Powered By ScriptBlox API
+ScriptHub
 
 [![image alt](https://github.com/RobloxExploitDev/SentinelRemakeResrouces/blob/main/Images/ScriptListShow.png?raw=true)
-                      <-----Scriptlist & Context Menu
+Scriptlist
 
 [![image alt](https://github.com/RobloxExploitDev/SentinelRemakeResrouces/blob/main/Images/Settings.png?raw=true)
-                       ^^^Settings UI
+Settings
