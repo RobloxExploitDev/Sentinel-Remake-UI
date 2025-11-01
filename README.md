@@ -64,7 +64,8 @@ NOTE - You Can Use Multi Instance Mode for Single Processes Aswell. Bloxstrap & 
 Bootstrapper.exe - https://www.virustotal.com/gui/file/a96f08e459a5ca2cb57d2b59723d62a267a255f70ec801e2d1a2f74b0ba2093a?nocache=1
 Bootstrapper.DLL - https://www.virustotal.com/gui/file/299125337a7ec0a76ffefee0753bce697cd73e4bd71a49007f0649c1d64f5bd2?nocache=1
 
-## Support
+## Support & Misc
 
 - Discord: https://discord.gg/qVT2yR63fq
 - Issues: Open an issue in this repository Or On Discord.
+- Source: App Is Open Source So just Use DNspy If You Want to check code or skid. Wont be provided.
