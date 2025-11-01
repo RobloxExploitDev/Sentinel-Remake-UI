@@ -69,3 +69,4 @@ Bootstrapper.DLL - https://www.virustotal.com/gui/file/299125337a7ec0a76ffefee07
 - Discord: https://discord.gg/qVT2yR63fq
 - Issues: Open an issue in this repository Or On Discord.
 - Source: App Is Open Source So just Use DNspy If You Want to check code or skid. Wont be provided.
+- If The App Displays a Console for a second and closes, You most likely dont have Visual C++ Redist & .net 8.0 SDK
