@@ -66,6 +66,7 @@ Settings
 ## VirusTotal (False Positives May Occur)
 
 SentinelBootstrapper.exe - https://www.virustotal.com/gui/file/a96f08e459a5ca2cb57d2b59723d62a267a255f70ec801e2d1a2f74b0ba2093a?nocache=1
+
 SentinelBootstrapper.DLL - https://www.virustotal.com/gui/file/299125337a7ec0a76ffefee0753bce697cd73e4bd71a49007f0649c1d64f5bd2?nocache=1
 
 ## Support & Misc
