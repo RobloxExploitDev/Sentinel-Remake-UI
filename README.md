@@ -76,3 +76,4 @@ SentinelBootstrapper.DLL - https://www.virustotal.com/gui/file/299125337a7ec0a76
 - Source: App Is Open Source So just Use DNspy If You Want to check code or skid. Source Wont Be Given Directly
 - If The App Displays a Console for a second and closes, You most likely dont have Visual C++ Redist & .net 8.0 SDK
 - You Can use Multi Instance Mode For Single Processes.
+- If You Want to Download A SIngular File Manually go To the "Resources" Repo
