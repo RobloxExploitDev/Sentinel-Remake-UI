@@ -29,7 +29,7 @@ Scriptlist
 ![Settings](https://github.com/RobloxExploitDev/SentinelRemakeResrouces/blob/main/Images/Settings.png?raw=true)
 Settings
 
-##Preview Videos
+## Preview Videos
 
  - First Time Setup: https://streamable.com/dtcgi7
  - In Game Review: SOON
