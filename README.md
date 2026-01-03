@@ -3,7 +3,7 @@ A Lua Script Executor Powered By Velocity API. Remake Based Of Original Sentinel
 
 Download In Discord - https://discord.gg/qVT2yR63fq 
 
-Latest Version - V1.0.1vr (Images May Be Outdated)
+Latest Version - V1.0.2vr (Images May Be Outdated)
 
 ## Preview Images
 
