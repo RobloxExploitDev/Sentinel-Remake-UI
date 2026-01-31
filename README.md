@@ -31,6 +31,9 @@ Scriptlist
 ![Settings](https://github.com/RobloxExploitDev/SentinelRemakeResrouces/blob/main/Images/Settings.png?raw=true)
 Settings
 
+![Output](https://github.com/RobloxExploitDev/SentinelRemakeResrouces/blob/main/Images/Output.png?raw=true)
+Output Tab
+
 ## Preview Videos
 
  - First Time Setup: https://streamable.com/dtcgi7
