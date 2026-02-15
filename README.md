@@ -5,6 +5,10 @@ Download In Discord - https://discord.gg/qVT2yR63fq
 
 Latest Version - V1.1.0vr (Images May Be Outdated. Release Will Auto Update When Ran.)
 
+UNC - 99% 
+
+SUNC - 96%
+
 ## Preview Images
 
 ![login ui](https://github.com/RobloxExploitDev/SentinelRemakeResrouces/blob/main/Images/Login.png?raw=true)
