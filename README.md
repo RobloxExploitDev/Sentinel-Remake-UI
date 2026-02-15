@@ -1,7 +1,7 @@
 # Sentinel-Remake-UI
 A Lua Script Executor Powered By Velocity API. Remake Based Of Original Sentinel Exploit.
 
-Download In Discord - https://discord.gg/qVT2yR63fq 
+Download In Discord Or UI Releases (May Be Oudated, AutoUpdates) - https://discord.gg/qVT2yR63fq 
 
 Latest Version - V1.1.0vr (Images May Be Outdated. Release Will Auto Update When Ran.)
 
