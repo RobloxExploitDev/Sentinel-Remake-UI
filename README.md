@@ -49,8 +49,11 @@ Output Tab
 - Modern & Clean UI inspired by Sentinel
 - Auto Updates UI & API
 - Multi / Single process selection 
-- ScriptHub with Scriptblox API (Loads of Scripts)
-- Renamable tabs + More
+- ScriptHub with Scriptblox API (Large Library Of Scripts)
+- Renamable tabs 
+- Console Window
+- Searchable Scripts List
+- 99% UNC & 96% UNC For Optimal Performance When Debugging
 
 
 ## Installation & First Time Setup
@@ -72,7 +75,7 @@ Output Tab
 3. Check the Box for the Instance you want to attach to Then Press Attach To Process
 4. For Single Instance, You Can just open a "Valid Instance" Then Press Attach Button.
 
-## VirusTotal (False Positives Due to API)
+## VirusTotal (False Positives Due to API, May Also be Outdated)
 
 SentinelBootstrapper.exe - https://www.virustotal.com/gui/file/a96f08e459a5ca2cb57d2b59723d62a267a255f70ec801e2d1a2f74b0ba2093a?nocache=1
 
